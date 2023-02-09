@@ -4,7 +4,7 @@
 </p>
 
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">Advanced Python</h3>
 
 <div align="center">
 
@@ -25,9 +25,6 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
 - [TODO](../TODO.md)
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
@@ -35,7 +32,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Linkedin Learning - Matering Python Skills path, first lesson
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
