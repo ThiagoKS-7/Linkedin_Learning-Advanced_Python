@@ -1,7 +1,8 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img src="https://user-images.githubusercontent.com/83460816/217962651-766ecaf0-c7e3-4608-88b3-d4165a29deb8.png" alt="Project logo"></a>
 </p>
+
 
 <h3 align="center">Project Title</h3>
 
