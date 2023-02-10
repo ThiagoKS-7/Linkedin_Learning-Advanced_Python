@@ -37,6 +37,7 @@ Linkedin Learning - Matering Python Skills path, first lesson
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 - Clone the repo (Must have a python interpreter installed)
+- In terminal, go to a chapter folder & run "python name_of_file.py"
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
