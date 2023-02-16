@@ -2,6 +2,8 @@
 
 import collections
 
+# named tuple is an class
+
 
 def main():
     # TODO: create a Point namedtuple
